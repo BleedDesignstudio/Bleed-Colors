@@ -13,7 +13,7 @@ Download or clone this repository to ```craft/plugins/bleedcolors```.
 **hex2rgb**
 
 ```twig
-Example 01: {{ "#000000"|hex2rgb() }}
+Example 01: {{ "#000000"|hex2rgb }}
 Example 02: {{ "#000"|hex2rgb(false) }}
 ```
 
